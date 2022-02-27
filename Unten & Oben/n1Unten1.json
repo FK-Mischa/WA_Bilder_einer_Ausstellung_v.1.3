@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/34bpromenade2"
+                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/18e1promenade2-"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/35blimoges"
+                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/19elimoges"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/36bkatakomben"
+                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/20ekatakomben"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/37bhutte"
+                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/21ehutte"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/38btor"
+                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/22etor"
                 }],
          "type":"tilelayer",
          "visible":true,
