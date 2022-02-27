@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Unten%20%26%20Oben\/n1Oben.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/09oben-"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Unten%20%26%20Oben\/n1Unten1.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/17unten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Lightcastle%20A\/n1Lightcastle.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/03e3-neutral-"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -90,7 +90,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/Promenade%20A\/b1PromenadeKlv.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/23bpromenade1"
                 }],
          "type":"tilelayer",
          "visible":true,
