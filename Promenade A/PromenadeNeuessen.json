@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/31bballett-"
+                 "value":"..\/Ballett%20Kuecklein%20A\/b1Ballett.json"
                 }],
          "type":"tilelayer",
          "visible":true,

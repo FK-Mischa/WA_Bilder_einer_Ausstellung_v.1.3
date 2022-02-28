@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/24bgnom"
+                 "value":"..\/Gnom%20A\/b1Gnom.json"
                 }],
          "type":"tilelayer",
          "visible":false,
