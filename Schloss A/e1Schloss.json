@@ -77,7 +77,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"Schloss Saxophon Solo.wav"
+                 "value":"Schloss Saxophon Solo.mp3"
                 }],
          "type":"tilelayer",
          "visible":false,
