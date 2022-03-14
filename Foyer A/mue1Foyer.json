@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/09oben-"
+                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/09oben"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/02e2-mulheim-"
+                 "value":"https:\/\/play.workadventu.re\/@\/familienkonzerte-ruhr-e.v.\/bilder-einer-ausstellung\/02e2-mulheim"
                 }],
          "type":"tilelayer",
          "visible":true,
